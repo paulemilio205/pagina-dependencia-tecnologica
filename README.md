@@ -34,3 +34,18 @@ Intenta ser más consciente del uso que haces de la tecnología. Deberías pregu
     <img src="https://th.bing.com/th/id/OIP.7fwDdiHjhRUMLNw9wV3U7QHaFj?o=7&cb=12rm=3&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Image 1">
 </body>
 </html>
+
+
+style.css
+
+body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 11px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #218355; /* El color del fondo de la página web */
+    color: #000000; /* El color del texto*/ 
+}
+h1 {
+    color: #000000; /* El color de la cabecera */
+    font-size: 24px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
